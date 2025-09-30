@@ -1,4 +1,4 @@
-# Project: Mastering FrozenLake-v1 with Q-Learning ⛄
+# Reinforcement Learning - QLearning: Fronzen Lake ⛄
 
 <img src="https://huggingface.co/datasets/huggingface-deep-rl-course/course-images/resolve/main/en/unit3/envs.gif" alt="Environments" width="600"/>
 
